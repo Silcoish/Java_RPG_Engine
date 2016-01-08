@@ -1,0 +1,66 @@
+<tiles>
+	<tile ID='0' name='void' 	 solid='0' spriteSheet='test' x='0' y='0'></tile>
+    <tile ID='1' name='grass'    solid='0' spriteSheet='test' x='0' y='0'></tile>
+    <tile ID='2' name='water'    solid='1' spriteSheet='test' x='1' y='0'></tile>
+    <tile ID='3' name='sand'     solid='0' spriteSheet='test' x='2' y='0'></tile>
+	<tile ID='257' name='flower' solid='0' spriteSheet='test' x='0' y='4'></tile>
+	<tile ID='258' name='sign'   solid='1' spriteSheet='test' x='1' y='4'></tile>
+	<tile ID='259' name='bush'   solid='0' spriteSheet='test' x='2' y='4'></tile>
+	
+	<tile ID='260' name='bushTopLeft' solid='0' spriteSheet='test' x='3' y='4'></tile>
+	<tile ID='261' name='bushTopMiddle' solid='0' spriteSheet='test' x='4' y='4'></tile>
+	<tile ID='262' name='bushTopRight' solid='0' spriteSheet='test' x='5' y='4'></tile>
+	<tile ID='324' name='bushMiddleLeft' solid='1' spriteSheet='test' x='3' y='5'></tile>
+	<tile ID='325' name='bushMiddleMiddle' solid='1' spriteSheet='test' x='4' y='5'></tile>
+	<tile ID='326' name='bushMiddleRight' solid='1' spriteSheet='test' x='5' y='5'></tile>
+	<tile ID='388' name='bushSide' solid='1' spriteSheet='test' x='3' y='6'></tile>
+	<tile ID='452' name='bushEnd' solid='1' spriteSheet='test' x='3' y='7'></tile>
+	
+	
+	<tile ID='4'   name='tree1' solid='1' spriteSheet='test' x='3' y='0'></tile>
+    <tile ID='5'   name='tree2' solid='1' spriteSheet='test' x='4' y='0'></tile>
+    <tile ID='68'  name='tree3' solid='1' spriteSheet='test' x='3' y='1'></tile> 
+	<tile ID='69'  name='tree4' solid='1' spriteSheet='test' x='4' y='1'></tile>
+    <tile ID='196' name='tree5' solid='1' spriteSheet='test' x='3' y='3'></tile>
+    <tile ID='197' name='tree6' solid='1' spriteSheet='test' x='4' y='3'></tile>
+
+	<tile ID='65'  name='path1' solid='0' spriteSheet='test' x='0' y='1'></tile>
+	<tile ID='66'  name='path2' solid='0' spriteSheet='test' x='1' y='1'></tile>
+	<tile ID='67'  name='path3' solid='0' spriteSheet='test' x='2' y='1'></tile>
+	<tile ID='129' name='path4' solid='0' spriteSheet='test' x='0' y='2'></tile>
+	<tile ID='130' name='path5' solid='0' spriteSheet='test' x='1' y='2'></tile>
+	<tile ID='131' name='path6' solid='0' spriteSheet='test' x='2' y='2'></tile>
+	<tile ID='193' name='path7' solid='0' spriteSheet='test' x='0' y='3'></tile>
+	<tile ID='194' name='path8' solid='0' spriteSheet='test' x='1' y='3'></tile>
+	<tile ID='195' name='path9' solid='0' spriteSheet='test' x='2' y='3'></tile>
+	
+	<tile ID='6'   name='house1'  solid='1' spriteSheet='test' x='5' y='0'></tile>
+	<tile ID='7'   name='house2'  solid='1' spriteSheet='test' x='6' y='0'></tile>
+	<tile ID='8'   name='house3'  solid='1' spriteSheet='test' x='7' y='0'></tile>
+	<tile ID='9'   name='house4'  solid='1' spriteSheet='test' x='8' y='0'></tile>
+	<tile ID='70'  name='house5'  solid='1' spriteSheet='test' x='5' y='1'></tile>
+	<tile ID='71'  name='house6'  solid='1' spriteSheet='test' x='6' y='1'></tile>
+	<tile ID='72'  name='house7'  solid='1' spriteSheet='test' x='7' y='1'></tile>
+	<tile ID='73'  name='house8'  solid='1' spriteSheet='test' x='8' y='1'></tile>
+	<tile ID='134' name='house9'  solid='1' spriteSheet='test' x='5' y='2'></tile>
+	<tile ID='135' name='house10' solid='1' spriteSheet='test' x='6' y='2'></tile>
+	<tile ID='136' name='house11' solid='1' spriteSheet='test' x='7' y='2'></tile>
+	<tile ID='137' name='house12' solid='1' spriteSheet='test' x='8' y='2'></tile>
+	<tile ID='198' name='house13' solid='1' spriteSheet='test' x='5' y='3'></tile>
+	<tile ID='199' name='house14' solid='1' spriteSheet='test' x='6' y='3'></tile>
+	<tile ID='200' name='house15' solid='1' spriteSheet='test' x='7' y='3'></tile>
+	<tile ID='201' name='house16' solid='1' spriteSheet='test' x='8' y='3'></tile>
+	
+	<tile ID='10' name='grass1' solid='0' spritesheet='test' x='9' y='0'></tile>
+	<tile ID='11' name='grass2' solid='0' spritesheet='test' x='10' y='0'></tile>
+	<tile ID='74' name='grass3' solid='0' spritesheet='test' x='9' y='1'></tile>
+	<tile ID='75' name='grass4' solid='0' spritesheet='test' x='10' y='1'></tile>
+	<tile ID='12' name='mountain1' solid='0' spritesheet='test' x='11' y='0'></tile>
+	<tile ID='13' name='mountain2' solid='0' spritesheet='test' x='12' y='0'></tile>
+	<tile ID='14' name='mountainJoin1' solid='1' spritesheet='test' x='13' y='0'></tile>
+	<tile ID='15' name='mountainJoin2' solid='1' spritesheet='test' x='14' y='0'></tile>
+	<tile ID='76' name='mountain3' solid='1' spritesheet='test' x='11' y='1'></tile>
+	<tile ID='77' name='mountain4' solid='1' spritesheet='test' x='12' y='1'></tile>
+	<tile ID='78' name='vilalge' solid='1' spritesheet='test' x='13' y='1'></tile>
+	
+</tiles>
